@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day04\\mvc day04\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|solutionrelative:mvc day04\\views\\student\\getall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day04\\mvc day04\\views\\student\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|solutionrelative:mvc day04\\views\\student\\getbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day04\\mvc day04\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|solutionrelative:mvc day04\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day04\\mvc day04\\viewmodel\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|solutionrelative:mvc day04\\viewmodel\\studentlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day04\\mvc day04\\service\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|solutionrelative:mvc day04\\service\\studentservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|c:\\users\\ahmed ramzy\\source\\repos\\mvc day04\\mvc day04\\viewmodel\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C595020-8869-4CD2-B3E7-083B93A3F7F2}|MVC Day04\\MVC Day04.csproj|solutionrelative:mvc day04\\viewmodel\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Views\\Student\\GetAll.cshtml",
+              "RelativeDocumentMoniker": "MVC Day04\\Views\\Student\\GetAll.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Views\\Student\\GetAll.cshtml",
+              "RelativeToolTip": "MVC Day04\\Views\\Student\\GetAll.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T01:03:40.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\ViewModel\\StudentListViewModel.cs",
+              "RelativeDocumentMoniker": "MVC Day04\\ViewModel\\StudentListViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\ViewModel\\StudentListViewModel.cs",
+              "RelativeToolTip": "MVC Day04\\ViewModel\\StudentListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:25:49.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentServices.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Service\\StudentServices.cs",
+              "RelativeDocumentMoniker": "MVC Day04\\Service\\StudentServices.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Service\\StudentServices.cs",
+              "RelativeToolTip": "MVC Day04\\Service\\StudentServices.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAA/wDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:55:03.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetById.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Views\\Student\\GetById.cshtml",
+              "RelativeDocumentMoniker": "MVC Day04\\Views\\Student\\GetById.cshtml",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Views\\Student\\GetById.cshtml",
+              "RelativeToolTip": "MVC Day04\\Views\\Student\\GetById.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-14T01:05:26.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MVC Day04\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MVC Day04\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwBkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:38:32.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\ViewModel\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "MVC Day04\\ViewModel\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed Ramzy\\source\\repos\\MVC Day04\\MVC Day04\\ViewModel\\AddStudentViewModel.cs",
+              "RelativeToolTip": "MVC Day04\\ViewModel\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAcAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:40:59.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

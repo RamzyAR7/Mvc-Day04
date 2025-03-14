@@ -1,0 +1,10 @@
+﻿@model Student
+
+<h2 class="my-4">Warning</h2>
+<p>Are you sure you want to delete the student with Name @Model.Name</p>
+
+<form asp-action="ConfirmDelete" method="post">
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">Yes, Delete</button>
+    <a asp-action="GetAll" class="btn btn-secondary">Cancel</a>
+</form>

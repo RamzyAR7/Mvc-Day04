@@ -1,0 +1,47 @@
+﻿@model StudentListViewModel
+
+<h2 class="my-4">All Students</h2>
+
+<form method="get" asp-action="GetAll" class="form-inline mb-4">
+    <div class="form-group mr-2">
+        <input type="text" name="searchString" value="@Model.SearchString" class="form-control" placeholder="Search by name" />
+    </div>
+    <br/>
+    <div class="form-group mr-2">
+        <select name="departmentId" class="form-control">
+            <option value="">...All Departments...</option>
+            @foreach (var department in Model.Departments)
+            {
+                <option value="@department.Id" selected="@(department.Id == Model.DepartmentId ? "selected" : null)">@department.Name</option>
+            }
+        </select>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Department</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var student in Model.Students)
+        {
+            <tr>
+                <td>@student.Name</td>
+                <td>@student.Age</td>
+                <td>@student.Department.Name</td>
+                <td>
+                    <a asp-action="GetById" asp-route-id="@student.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Edit" asp-route-id="@student.Id" class="btn btn-warning">Edit</a>
+                    <a asp-action="Delete" asp-route-id="@student.Id" class="btn btn-danger">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

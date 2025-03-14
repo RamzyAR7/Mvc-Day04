@@ -1,0 +1,33 @@
+﻿@model MVC_Day04.Models.Student
+
+<h2 class="my-4">Student</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h4>@Model.Name</h4>
+    </div>
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">
+                Age
+            </dt>
+            <dd class="col-sm-9">
+                @Model.Age
+            </dd>
+            <dt class="col-sm-3">
+                Department
+            </dt>
+            <dd class="col-sm-9">
+                @Model.Department.Name
+            </dd>
+        </dl>
+        <dl class="row">
+            <dt class="col-sm-3">
+                <a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Edit</a>
+                <a class="btn btn-danger" asp-action="Delete" asp-controller="Student" asp-route-id="@Model.Id">Delete</a>
+            </dt>
+        </dl>
+    </div>
+</div>
+
+<a class="btn btn-secondary mt-3" asp-action="GetAll">Back to List</a>

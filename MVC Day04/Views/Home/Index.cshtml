@@ -1,0 +1,20 @@
+﻿@model MVC_Day04.Models.Student
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <a asp-action="GetAll" asp-controller="Student" class="btn btn-primary">Show All Students</a>
+</div>
+<br/>
+<div class="text-center mt-4">
+    <form asp-action="GetById" asp-controller="Student" method="get" class="form-inline justify-content-center">
+        <div class="form-group">
+            <label asp-for="Id" class=" control-label">Enter The Student Id</label>
+            <br />
+            <input asp-for="Id" class="form-control" />
+        </div>
+        <br />
+        <button type="submit" class="btn btn-info">Edit</button>
+    </form>
+</div>
+
+
